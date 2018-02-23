@@ -1,0 +1,7 @@
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\bin\Debug\VirtualMindMatrix.exe.config
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\bin\Debug\VirtualMindMatrix.exe
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\bin\Debug\VirtualMindMatrix.pdb
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\obj\Debug\VirtualMindMatrix.csprojResolveAssemblyReference.cache
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\obj\Debug\VirtualMindMatrix.csproj.CoreCompileInputs.cache
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\obj\Debug\VirtualMindMatrix.exe
+c:\users\crist\source\repos\VirtualMindMatrix\VirtualMindMatrix\obj\Debug\VirtualMindMatrix.pdb
